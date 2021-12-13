@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suvom-Ghosh
-- 👀 I’m interested in cricket and google..
+- 👀 I’m interested in seo and digital marketing..
 - 🌱 I’m currently learning html and css...
 - 💞️ I’m looking to collaborate on github...
 - 📫 How to reach me suvomghosh@yahoo.com..
